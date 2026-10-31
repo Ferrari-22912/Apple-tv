@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dock apps, in order. Change, add or remove lines (4 to 7 recommended). -->
+    <string-array name="dock_apps">
+        <item>com.google.android.youtube.tv</item>
+        <item>com.netflix.ninja</item>
+        <item>com.amazon.amazonvideo.livingroom</item>
+        <item>com.spotify.tv.android</item>
+    </string-array>
+    <integer name="columns">4</integer>
+</resources>
